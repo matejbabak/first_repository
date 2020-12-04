@@ -1,0 +1,17 @@
+MONSTRA
+
+jmeno:
+typ:
+level:
+zivoty:
+utok:
+rychlost:
+zbran:
+schopnosti:
+
+ITEMY:
+
+jmeno:
+typ:
+level:
+schopnost:
